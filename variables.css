@@ -1,0 +1,35 @@
+:root {
+    --bs-primary-color: #fff;
+    --bs-secondary-color: #283d50;
+    --bs-grey: #888;
+    --bs-charcoal: #444;
+    --bs-shuttle-grey: #556877;
+    --bs-cobalt: #004a99;
+    --bs-dodger-blue: #007bff;
+    --bs-dark-cerulean: #004289;
+    --dark-blue: #00428a;
+    --light-blue: #ecf5ff;
+    --font-family-montserrat: "Montserrat", sans-serif;
+    --font-family-open-sans: "Open Sans", sans-serif;
+    --font-size-xsm: 0.875rem;
+    /*14px*/
+    --font-size-sm: 0.9375rem;
+    /*15px*/
+    --font-size-md: 1rem;
+    /*16px*/
+    --font-size-l: 1.125rem;
+    /*18px*/
+    --font-size-20: 1.25rem;
+    /*20px*/
+    --font-size-22: 1.375rem;
+    /*22px*/
+    --font-size-xl: 2.25rem;
+    /*36px*/
+    --font-size-xxl: 2.75rem;
+    /*44px*/
+    --font-weight-xsm: 400;
+    --font-weight-sm: 500;
+    --font-weight-md: 600;
+    --font-weight-l: 700;
+
+}
